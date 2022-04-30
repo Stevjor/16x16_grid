@@ -1,7 +1,8 @@
 .container {
     width: 600px;
     height: 600px;
-    background-color: aqua;
+    background-color: aquamarine;
+    margin-top: 10px;
 }
 
 body {
@@ -10,4 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    display: flex;
+    flex-direction: column;
+
 }
