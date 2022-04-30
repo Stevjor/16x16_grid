@@ -23,7 +23,7 @@ function drawGrid(dimension) {
             div.style.backgroundColor = `rgb(${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)})`;
         }
         function mouseOut() {
-            div.style.backgroundColor = `aquamarine`;
+            div.style.backgroundColor = `cornsilk`;
         }
         container.appendChild(div);
     }

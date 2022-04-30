@@ -1,7 +1,7 @@
 .container {
     width: 600px;
     height: 600px;
-    background-color: aquamarine;
+    background-color: cornsilk;
     margin-top: 10px;
 }
 
@@ -13,5 +13,7 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
+    background-image: url("./pexels-matheus-viana-10931575.jpg");
+    background-size: cover;
 
 }
